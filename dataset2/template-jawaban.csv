@@ -1,0 +1,1501 @@
+id,label
+TXT0001,Distribusi
+TXT0002,Distribusi
+TXT0003,Kualitas Pangan
+TXT0004,Sasaran Penerima
+TXT0005,Kualitas Pangan
+TXT0006,Kualitas Pangan
+TXT0007,Politik
+TXT0008,Ekonomi
+TXT0009,Kualitas Pangan
+TXT0010,Tata Kelola
+TXT0011,Kualitas Pangan
+TXT0012,Lainnya
+TXT0013,Tata Kelola
+TXT0014,Sasaran Penerima
+TXT0015,Distribusi
+TXT0016,Kualitas Pangan
+TXT0017,Kualitas Pangan
+TXT0018,Anggaran
+TXT0019,Kualitas Pangan
+TXT0020,Kualitas Pangan
+TXT0021,Anggaran
+TXT0022,Sasaran Penerima
+TXT0023,Kualitas Pangan
+TXT0024,Anggaran
+TXT0025,Politik
+TXT0026,Sasaran Penerima
+TXT0027,Kualitas Pangan
+TXT0028,Tata Kelola
+TXT0029,Lainnya
+TXT0030,Distribusi
+TXT0031,Kualitas Pangan
+TXT0032,Sasaran Penerima
+TXT0033,Lainnya
+TXT0034,Ekonomi
+TXT0035,Distribusi
+TXT0036,Anggaran
+TXT0037,Lainnya
+TXT0038,Kualitas Pangan
+TXT0039,Kualitas Pangan
+TXT0040,Distribusi
+TXT0041,Politik
+TXT0042,Lainnya
+TXT0043,Politik
+TXT0044,Anggaran
+TXT0045,Tata Kelola
+TXT0046,Tata Kelola
+TXT0047,Anggaran
+TXT0048,Distribusi
+TXT0049,Lainnya
+TXT0050,Kualitas Pangan
+TXT0051,Politik
+TXT0052,Anggaran
+TXT0053,Distribusi
+TXT0054,Politik
+TXT0055,Kualitas Pangan
+TXT0056,Anggaran
+TXT0057,Sasaran Penerima
+TXT0058,Kualitas Pangan
+TXT0059,Tata Kelola
+TXT0060,Politik
+TXT0061,Anggaran
+TXT0062,Politik
+TXT0063,Lainnya
+TXT0064,Distribusi
+TXT0065,Anggaran
+TXT0066,Lainnya
+TXT0067,Kualitas Pangan
+TXT0068,Distribusi
+TXT0069,Politik
+TXT0070,Distribusi
+TXT0071,Kualitas Pangan
+TXT0072,Tata Kelola
+TXT0073,Distribusi
+TXT0074,Lainnya
+TXT0075,Kualitas Pangan
+TXT0076,Politik
+TXT0077,Tata Kelola
+TXT0078,Kualitas Pangan
+TXT0079,Kualitas Pangan
+TXT0080,Tata Kelola
+TXT0081,Kualitas Pangan
+TXT0082,Anggaran
+TXT0083,Lainnya
+TXT0084,Lainnya
+TXT0085,Politik
+TXT0086,Anggaran
+TXT0087,Kualitas Pangan
+TXT0088,Kualitas Pangan
+TXT0089,Kualitas Pangan
+TXT0090,Kualitas Pangan
+TXT0091,Anggaran
+TXT0092,Kualitas Pangan
+TXT0093,Tata Kelola
+TXT0094,Tata Kelola
+TXT0095,Kualitas Pangan
+TXT0096,Distribusi
+TXT0097,Sasaran Penerima
+TXT0098,Politik
+TXT0099,Tata Kelola
+TXT0100,Distribusi
+TXT0101,Anggaran
+TXT0102,Kualitas Pangan
+TXT0103,Ekonomi
+TXT0104,Kualitas Pangan
+TXT0105,Anggaran
+TXT0106,Anggaran
+TXT0107,Kualitas Pangan
+TXT0108,Kualitas Pangan
+TXT0109,Lainnya
+TXT0110,Anggaran
+TXT0111,Kualitas Pangan
+TXT0112,Politik
+TXT0113,Kualitas Pangan
+TXT0114,Anggaran
+TXT0115,Kualitas Pangan
+TXT0116,Lainnya
+TXT0117,Distribusi
+TXT0118,Ekonomi
+TXT0119,Anggaran
+TXT0120,Kualitas Pangan
+TXT0121,Tata Kelola
+TXT0122,Lainnya
+TXT0123,Sasaran Penerima
+TXT0124,Politik
+TXT0125,Kualitas Pangan
+TXT0126,Kualitas Pangan
+TXT0127,Kualitas Pangan
+TXT0128,Anggaran
+TXT0129,Kualitas Pangan
+TXT0130,Tata Kelola
+TXT0131,Lainnya
+TXT0132,Distribusi
+TXT0133,Tata Kelola
+TXT0134,Lainnya
+TXT0135,Kualitas Pangan
+TXT0136,Lainnya
+TXT0137,Kualitas Pangan
+TXT0138,Distribusi
+TXT0139,Sasaran Penerima
+TXT0140,Distribusi
+TXT0141,Kualitas Pangan
+TXT0142,Distribusi
+TXT0143,Sasaran Penerima
+TXT0144,Kualitas Pangan
+TXT0145,Ekonomi
+TXT0146,Kualitas Pangan
+TXT0147,Lainnya
+TXT0148,Kualitas Pangan
+TXT0149,Kualitas Pangan
+TXT0150,Tata Kelola
+TXT0151,Sasaran Penerima
+TXT0152,Anggaran
+TXT0153,Anggaran
+TXT0154,Anggaran
+TXT0155,Tata Kelola
+TXT0156,Kualitas Pangan
+TXT0157,Distribusi
+TXT0158,Politik
+TXT0159,Lainnya
+TXT0160,Politik
+TXT0161,Kualitas Pangan
+TXT0162,Politik
+TXT0163,Politik
+TXT0164,Distribusi
+TXT0165,Anggaran
+TXT0166,Kualitas Pangan
+TXT0167,Sasaran Penerima
+TXT0168,Ekonomi
+TXT0169,Distribusi
+TXT0170,Distribusi
+TXT0171,Sasaran Penerima
+TXT0172,Kualitas Pangan
+TXT0173,Distribusi
+TXT0174,Kualitas Pangan
+TXT0175,Anggaran
+TXT0176,Ekonomi
+TXT0177,Sasaran Penerima
+TXT0178,Sasaran Penerima
+TXT0179,Anggaran
+TXT0180,Tata Kelola
+TXT0181,Kualitas Pangan
+TXT0182,Politik
+TXT0183,Politik
+TXT0184,Kualitas Pangan
+TXT0185,Lainnya
+TXT0186,Kualitas Pangan
+TXT0187,Kualitas Pangan
+TXT0188,Lainnya
+TXT0189,Ekonomi
+TXT0190,Sasaran Penerima
+TXT0191,Politik
+TXT0192,Kualitas Pangan
+TXT0193,Politik
+TXT0194,Tata Kelola
+TXT0195,Sasaran Penerima
+TXT0196,Politik
+TXT0197,Anggaran
+TXT0198,Distribusi
+TXT0199,Anggaran
+TXT0200,Kualitas Pangan
+TXT0201,Anggaran
+TXT0202,Lainnya
+TXT0203,Tata Kelola
+TXT0204,Distribusi
+TXT0205,Politik
+TXT0206,Kualitas Pangan
+TXT0207,Tata Kelola
+TXT0208,Tata Kelola
+TXT0209,Tata Kelola
+TXT0210,Kualitas Pangan
+TXT0211,Tata Kelola
+TXT0212,Distribusi
+TXT0213,Anggaran
+TXT0214,Distribusi
+TXT0215,Sasaran Penerima
+TXT0216,Anggaran
+TXT0217,Lainnya
+TXT0218,Kualitas Pangan
+TXT0219,Anggaran
+TXT0220,Sasaran Penerima
+TXT0221,Kualitas Pangan
+TXT0222,Anggaran
+TXT0223,Tata Kelola
+TXT0224,Sasaran Penerima
+TXT0225,Politik
+TXT0226,Kualitas Pangan
+TXT0227,Distribusi
+TXT0228,Sasaran Penerima
+TXT0229,Politik
+TXT0230,Distribusi
+TXT0231,Distribusi
+TXT0232,Tata Kelola
+TXT0233,Politik
+TXT0234,Kualitas Pangan
+TXT0235,Sasaran Penerima
+TXT0236,Ekonomi
+TXT0237,Distribusi
+TXT0238,Distribusi
+TXT0239,Kualitas Pangan
+TXT0240,Ekonomi
+TXT0241,Politik
+TXT0242,Kualitas Pangan
+TXT0243,Kualitas Pangan
+TXT0244,Kualitas Pangan
+TXT0245,Anggaran
+TXT0246,Kualitas Pangan
+TXT0247,Kualitas Pangan
+TXT0248,Kualitas Pangan
+TXT0249,Anggaran
+TXT0250,Sasaran Penerima
+TXT0251,Distribusi
+TXT0252,Distribusi
+TXT0253,Lainnya
+TXT0254,Anggaran
+TXT0255,Tata Kelola
+TXT0256,Kualitas Pangan
+TXT0257,Tata Kelola
+TXT0258,Sasaran Penerima
+TXT0259,Tata Kelola
+TXT0260,Anggaran
+TXT0261,Ekonomi
+TXT0262,Tata Kelola
+TXT0263,Politik
+TXT0264,Distribusi
+TXT0265,Tata Kelola
+TXT0266,Distribusi
+TXT0267,Anggaran
+TXT0268,Politik
+TXT0269,Anggaran
+TXT0270,Kualitas Pangan
+TXT0271,Lainnya
+TXT0272,Kualitas Pangan
+TXT0273,Anggaran
+TXT0274,Kualitas Pangan
+TXT0275,Politik
+TXT0276,Kualitas Pangan
+TXT0277,Lainnya
+TXT0278,Distribusi
+TXT0279,Politik
+TXT0280,Anggaran
+TXT0281,Kualitas Pangan
+TXT0282,Sasaran Penerima
+TXT0283,Tata Kelola
+TXT0284,Kualitas Pangan
+TXT0285,Ekonomi
+TXT0286,Anggaran
+TXT0287,Sasaran Penerima
+TXT0288,Anggaran
+TXT0289,Distribusi
+TXT0290,Lainnya
+TXT0291,Sasaran Penerima
+TXT0292,Anggaran
+TXT0293,Politik
+TXT0294,Kualitas Pangan
+TXT0295,Anggaran
+TXT0296,Lainnya
+TXT0297,Lainnya
+TXT0298,Politik
+TXT0299,Anggaran
+TXT0300,Politik
+TXT0301,Tata Kelola
+TXT0302,Lainnya
+TXT0303,Sasaran Penerima
+TXT0304,Tata Kelola
+TXT0305,Tata Kelola
+TXT0306,Lainnya
+TXT0307,Lainnya
+TXT0308,Kualitas Pangan
+TXT0309,Anggaran
+TXT0310,Kualitas Pangan
+TXT0311,Ekonomi
+TXT0312,Ekonomi
+TXT0313,Politik
+TXT0314,Distribusi
+TXT0315,Sasaran Penerima
+TXT0316,Distribusi
+TXT0317,Ekonomi
+TXT0318,Kualitas Pangan
+TXT0319,Tata Kelola
+TXT0320,Lainnya
+TXT0321,Politik
+TXT0322,Anggaran
+TXT0323,Kualitas Pangan
+TXT0324,Anggaran
+TXT0325,Politik
+TXT0326,Kualitas Pangan
+TXT0327,Politik
+TXT0328,Kualitas Pangan
+TXT0329,Kualitas Pangan
+TXT0330,Anggaran
+TXT0331,Kualitas Pangan
+TXT0332,Distribusi
+TXT0333,Politik
+TXT0334,Kualitas Pangan
+TXT0335,Anggaran
+TXT0336,Politik
+TXT0337,Kualitas Pangan
+TXT0338,Anggaran
+TXT0339,Distribusi
+TXT0340,Ekonomi
+TXT0341,Kualitas Pangan
+TXT0342,Politik
+TXT0343,Kualitas Pangan
+TXT0344,Distribusi
+TXT0345,Politik
+TXT0346,Anggaran
+TXT0347,Politik
+TXT0348,Distribusi
+TXT0349,Politik
+TXT0350,Distribusi
+TXT0351,Tata Kelola
+TXT0352,Distribusi
+TXT0353,Lainnya
+TXT0354,Politik
+TXT0355,Distribusi
+TXT0356,Anggaran
+TXT0357,Politik
+TXT0358,Anggaran
+TXT0359,Kualitas Pangan
+TXT0360,Kualitas Pangan
+TXT0361,Sasaran Penerima
+TXT0362,Anggaran
+TXT0363,Kualitas Pangan
+TXT0364,Distribusi
+TXT0365,Distribusi
+TXT0366,Anggaran
+TXT0367,Kualitas Pangan
+TXT0368,Distribusi
+TXT0369,Anggaran
+TXT0370,Kualitas Pangan
+TXT0371,Anggaran
+TXT0372,Tata Kelola
+TXT0373,Anggaran
+TXT0374,Distribusi
+TXT0375,Lainnya
+TXT0376,Tata Kelola
+TXT0377,Lainnya
+TXT0378,Lainnya
+TXT0379,Sasaran Penerima
+TXT0380,Sasaran Penerima
+TXT0381,Kualitas Pangan
+TXT0382,Anggaran
+TXT0383,Politik
+TXT0384,Lainnya
+TXT0385,Sasaran Penerima
+TXT0386,Distribusi
+TXT0387,Politik
+TXT0388,Politik
+TXT0389,Anggaran
+TXT0390,Tata Kelola
+TXT0391,Kualitas Pangan
+TXT0392,Kualitas Pangan
+TXT0393,Politik
+TXT0394,Sasaran Penerima
+TXT0395,Kualitas Pangan
+TXT0396,Distribusi
+TXT0397,Anggaran
+TXT0398,Lainnya
+TXT0399,Kualitas Pangan
+TXT0400,Tata Kelola
+TXT0401,Politik
+TXT0402,Kualitas Pangan
+TXT0403,Tata Kelola
+TXT0404,Kualitas Pangan
+TXT0405,Anggaran
+TXT0406,Distribusi
+TXT0407,Sasaran Penerima
+TXT0408,Kualitas Pangan
+TXT0409,Politik
+TXT0410,Distribusi
+TXT0411,Lainnya
+TXT0412,Kualitas Pangan
+TXT0413,Ekonomi
+TXT0414,Tata Kelola
+TXT0415,Distribusi
+TXT0416,Politik
+TXT0417,Anggaran
+TXT0418,Anggaran
+TXT0419,Tata Kelola
+TXT0420,Politik
+TXT0421,Anggaran
+TXT0422,Tata Kelola
+TXT0423,Distribusi
+TXT0424,Sasaran Penerima
+TXT0425,Tata Kelola
+TXT0426,Distribusi
+TXT0427,Ekonomi
+TXT0428,Politik
+TXT0429,Kualitas Pangan
+TXT0430,Kualitas Pangan
+TXT0431,Anggaran
+TXT0432,Kualitas Pangan
+TXT0433,Politik
+TXT0434,Kualitas Pangan
+TXT0435,Kualitas Pangan
+TXT0436,Tata Kelola
+TXT0437,Politik
+TXT0438,Kualitas Pangan
+TXT0439,Distribusi
+TXT0440,Anggaran
+TXT0441,Distribusi
+TXT0442,Tata Kelola
+TXT0443,Sasaran Penerima
+TXT0444,Lainnya
+TXT0445,Lainnya
+TXT0446,Anggaran
+TXT0447,Anggaran
+TXT0448,Ekonomi
+TXT0449,Distribusi
+TXT0450,Kualitas Pangan
+TXT0451,Sasaran Penerima
+TXT0452,Distribusi
+TXT0453,Anggaran
+TXT0454,Lainnya
+TXT0455,Lainnya
+TXT0456,Kualitas Pangan
+TXT0457,Sasaran Penerima
+TXT0458,Kualitas Pangan
+TXT0459,Distribusi
+TXT0460,Sasaran Penerima
+TXT0461,Ekonomi
+TXT0462,Lainnya
+TXT0463,Sasaran Penerima
+TXT0464,Kualitas Pangan
+TXT0465,Politik
+TXT0466,Kualitas Pangan
+TXT0467,Politik
+TXT0468,Ekonomi
+TXT0469,Distribusi
+TXT0470,Lainnya
+TXT0471,Lainnya
+TXT0472,Kualitas Pangan
+TXT0473,Tata Kelola
+TXT0474,Anggaran
+TXT0475,Kualitas Pangan
+TXT0476,Tata Kelola
+TXT0477,Anggaran
+TXT0478,Distribusi
+TXT0479,Kualitas Pangan
+TXT0480,Kualitas Pangan
+TXT0481,Kualitas Pangan
+TXT0482,Tata Kelola
+TXT0483,Distribusi
+TXT0484,Kualitas Pangan
+TXT0485,Anggaran
+TXT0486,Lainnya
+TXT0487,Tata Kelola
+TXT0488,Anggaran
+TXT0489,Sasaran Penerima
+TXT0490,Tata Kelola
+TXT0491,Tata Kelola
+TXT0492,Distribusi
+TXT0493,Anggaran
+TXT0494,Tata Kelola
+TXT0495,Distribusi
+TXT0496,Tata Kelola
+TXT0497,Sasaran Penerima
+TXT0498,Sasaran Penerima
+TXT0499,Kualitas Pangan
+TXT0500,Sasaran Penerima
+TXT0501,Anggaran
+TXT0502,Anggaran
+TXT0503,Anggaran
+TXT0504,Lainnya
+TXT0505,Sasaran Penerima
+TXT0506,Politik
+TXT0507,Distribusi
+TXT0508,Distribusi
+TXT0509,Kualitas Pangan
+TXT0510,Anggaran
+TXT0511,Anggaran
+TXT0512,Anggaran
+TXT0513,Lainnya
+TXT0514,Kualitas Pangan
+TXT0515,Kualitas Pangan
+TXT0516,Anggaran
+TXT0517,Kualitas Pangan
+TXT0518,Distribusi
+TXT0519,Lainnya
+TXT0520,Kualitas Pangan
+TXT0521,Kualitas Pangan
+TXT0522,Lainnya
+TXT0523,Kualitas Pangan
+TXT0524,Anggaran
+TXT0525,Politik
+TXT0526,Anggaran
+TXT0527,Politik
+TXT0528,Ekonomi
+TXT0529,Lainnya
+TXT0530,Kualitas Pangan
+TXT0531,Anggaran
+TXT0532,Lainnya
+TXT0533,Distribusi
+TXT0534,Politik
+TXT0535,Tata Kelola
+TXT0536,Politik
+TXT0537,Kualitas Pangan
+TXT0538,Politik
+TXT0539,Kualitas Pangan
+TXT0540,Anggaran
+TXT0541,Lainnya
+TXT0542,Tata Kelola
+TXT0543,Tata Kelola
+TXT0544,Distribusi
+TXT0545,Kualitas Pangan
+TXT0546,Lainnya
+TXT0547,Lainnya
+TXT0548,Anggaran
+TXT0549,Lainnya
+TXT0550,Ekonomi
+TXT0551,Distribusi
+TXT0552,Kualitas Pangan
+TXT0553,Lainnya
+TXT0554,Anggaran
+TXT0555,Tata Kelola
+TXT0556,Distribusi
+TXT0557,Distribusi
+TXT0558,Kualitas Pangan
+TXT0559,Anggaran
+TXT0560,Distribusi
+TXT0561,Distribusi
+TXT0562,Ekonomi
+TXT0563,Distribusi
+TXT0564,Sasaran Penerima
+TXT0565,Distribusi
+TXT0566,Lainnya
+TXT0567,Kualitas Pangan
+TXT0568,Politik
+TXT0569,Anggaran
+TXT0570,Anggaran
+TXT0571,Tata Kelola
+TXT0572,Sasaran Penerima
+TXT0573,Politik
+TXT0574,Politik
+TXT0575,Anggaran
+TXT0576,Anggaran
+TXT0577,Kualitas Pangan
+TXT0578,Politik
+TXT0579,Kualitas Pangan
+TXT0580,Kualitas Pangan
+TXT0581,Lainnya
+TXT0582,Anggaran
+TXT0583,Lainnya
+TXT0584,Distribusi
+TXT0585,Distribusi
+TXT0586,Lainnya
+TXT0587,Distribusi
+TXT0588,Politik
+TXT0589,Anggaran
+TXT0590,Tata Kelola
+TXT0591,Politik
+TXT0592,Anggaran
+TXT0593,Kualitas Pangan
+TXT0594,Kualitas Pangan
+TXT0595,Distribusi
+TXT0596,Anggaran
+TXT0597,Sasaran Penerima
+TXT0598,Kualitas Pangan
+TXT0599,Lainnya
+TXT0600,Anggaran
+TXT0601,Tata Kelola
+TXT0602,Tata Kelola
+TXT0603,Kualitas Pangan
+TXT0604,Kualitas Pangan
+TXT0605,Anggaran
+TXT0606,Sasaran Penerima
+TXT0607,Anggaran
+TXT0608,Lainnya
+TXT0609,Lainnya
+TXT0610,Distribusi
+TXT0611,Politik
+TXT0612,Anggaran
+TXT0613,Kualitas Pangan
+TXT0614,Distribusi
+TXT0615,Politik
+TXT0616,Anggaran
+TXT0617,Anggaran
+TXT0618,Sasaran Penerima
+TXT0619,Politik
+TXT0620,Kualitas Pangan
+TXT0621,Anggaran
+TXT0622,Politik
+TXT0623,Kualitas Pangan
+TXT0624,Anggaran
+TXT0625,Tata Kelola
+TXT0626,Politik
+TXT0627,Ekonomi
+TXT0628,Sasaran Penerima
+TXT0629,Tata Kelola
+TXT0630,Kualitas Pangan
+TXT0631,Politik
+TXT0632,Lainnya
+TXT0633,Anggaran
+TXT0634,Lainnya
+TXT0635,Kualitas Pangan
+TXT0636,Anggaran
+TXT0637,Sasaran Penerima
+TXT0638,Ekonomi
+TXT0639,Kualitas Pangan
+TXT0640,Kualitas Pangan
+TXT0641,Kualitas Pangan
+TXT0642,Kualitas Pangan
+TXT0643,Sasaran Penerima
+TXT0644,Kualitas Pangan
+TXT0645,Anggaran
+TXT0646,Sasaran Penerima
+TXT0647,Tata Kelola
+TXT0648,Distribusi
+TXT0649,Distribusi
+TXT0650,Politik
+TXT0651,Sasaran Penerima
+TXT0652,Anggaran
+TXT0653,Lainnya
+TXT0654,Tata Kelola
+TXT0655,Anggaran
+TXT0656,Kualitas Pangan
+TXT0657,Kualitas Pangan
+TXT0658,Anggaran
+TXT0659,Ekonomi
+TXT0660,Kualitas Pangan
+TXT0661,Tata Kelola
+TXT0662,Tata Kelola
+TXT0663,Tata Kelola
+TXT0664,Lainnya
+TXT0665,Kualitas Pangan
+TXT0666,Distribusi
+TXT0667,Politik
+TXT0668,Kualitas Pangan
+TXT0669,Kualitas Pangan
+TXT0670,Anggaran
+TXT0671,Distribusi
+TXT0672,Kualitas Pangan
+TXT0673,Sasaran Penerima
+TXT0674,Tata Kelola
+TXT0675,Distribusi
+TXT0676,Lainnya
+TXT0677,Kualitas Pangan
+TXT0678,Politik
+TXT0679,Distribusi
+TXT0680,Anggaran
+TXT0681,Kualitas Pangan
+TXT0682,Politik
+TXT0683,Lainnya
+TXT0684,Kualitas Pangan
+TXT0685,Lainnya
+TXT0686,Sasaran Penerima
+TXT0687,Kualitas Pangan
+TXT0688,Lainnya
+TXT0689,Sasaran Penerima
+TXT0690,Tata Kelola
+TXT0691,Tata Kelola
+TXT0692,Kualitas Pangan
+TXT0693,Anggaran
+TXT0694,Kualitas Pangan
+TXT0695,Anggaran
+TXT0696,Anggaran
+TXT0697,Tata Kelola
+TXT0698,Kualitas Pangan
+TXT0699,Lainnya
+TXT0700,Anggaran
+TXT0701,Lainnya
+TXT0702,Kualitas Pangan
+TXT0703,Anggaran
+TXT0704,Anggaran
+TXT0705,Sasaran Penerima
+TXT0706,Kualitas Pangan
+TXT0707,Ekonomi
+TXT0708,Kualitas Pangan
+TXT0709,Kualitas Pangan
+TXT0710,Sasaran Penerima
+TXT0711,Lainnya
+TXT0712,Kualitas Pangan
+TXT0713,Tata Kelola
+TXT0714,Distribusi
+TXT0715,Tata Kelola
+TXT0716,Anggaran
+TXT0717,Politik
+TXT0718,Politik
+TXT0719,Anggaran
+TXT0720,Kualitas Pangan
+TXT0721,Lainnya
+TXT0722,Lainnya
+TXT0723,Anggaran
+TXT0724,Sasaran Penerima
+TXT0725,Kualitas Pangan
+TXT0726,Tata Kelola
+TXT0727,Sasaran Penerima
+TXT0728,Tata Kelola
+TXT0729,Tata Kelola
+TXT0730,Distribusi
+TXT0731,Sasaran Penerima
+TXT0732,Distribusi
+TXT0733,Distribusi
+TXT0734,Tata Kelola
+TXT0735,Tata Kelola
+TXT0736,Kualitas Pangan
+TXT0737,Kualitas Pangan
+TXT0738,Ekonomi
+TXT0739,Anggaran
+TXT0740,Tata Kelola
+TXT0741,Sasaran Penerima
+TXT0742,Anggaran
+TXT0743,Anggaran
+TXT0744,Anggaran
+TXT0745,Anggaran
+TXT0746,Kualitas Pangan
+TXT0747,Politik
+TXT0748,Distribusi
+TXT0749,Anggaran
+TXT0750,Tata Kelola
+TXT0751,Tata Kelola
+TXT0752,Politik
+TXT0753,Tata Kelola
+TXT0754,Anggaran
+TXT0755,Kualitas Pangan
+TXT0756,Kualitas Pangan
+TXT0757,Politik
+TXT0758,Kualitas Pangan
+TXT0759,Distribusi
+TXT0760,Kualitas Pangan
+TXT0761,Distribusi
+TXT0762,Sasaran Penerima
+TXT0763,Distribusi
+TXT0764,Tata Kelola
+TXT0765,Politik
+TXT0766,Politik
+TXT0767,Politik
+TXT0768,Distribusi
+TXT0769,Ekonomi
+TXT0770,Anggaran
+TXT0771,Kualitas Pangan
+TXT0772,Anggaran
+TXT0773,Kualitas Pangan
+TXT0774,Tata Kelola
+TXT0775,Kualitas Pangan
+TXT0776,Distribusi
+TXT0777,Kualitas Pangan
+TXT0778,Kualitas Pangan
+TXT0779,Sasaran Penerima
+TXT0780,Lainnya
+TXT0781,Politik
+TXT0782,Lainnya
+TXT0783,Distribusi
+TXT0784,Lainnya
+TXT0785,Anggaran
+TXT0786,Kualitas Pangan
+TXT0787,Politik
+TXT0788,Distribusi
+TXT0789,Anggaran
+TXT0790,Distribusi
+TXT0791,Kualitas Pangan
+TXT0792,Tata Kelola
+TXT0793,Kualitas Pangan
+TXT0794,Kualitas Pangan
+TXT0795,Anggaran
+TXT0796,Distribusi
+TXT0797,Lainnya
+TXT0798,Politik
+TXT0799,Sasaran Penerima
+TXT0800,Anggaran
+TXT0801,Lainnya
+TXT0802,Politik
+TXT0803,Distribusi
+TXT0804,Sasaran Penerima
+TXT0805,Kualitas Pangan
+TXT0806,Tata Kelola
+TXT0807,Distribusi
+TXT0808,Kualitas Pangan
+TXT0809,Lainnya
+TXT0810,Sasaran Penerima
+TXT0811,Lainnya
+TXT0812,Tata Kelola
+TXT0813,Anggaran
+TXT0814,Politik
+TXT0815,Kualitas Pangan
+TXT0816,Kualitas Pangan
+TXT0817,Kualitas Pangan
+TXT0818,Kualitas Pangan
+TXT0819,Sasaran Penerima
+TXT0820,Sasaran Penerima
+TXT0821,Anggaran
+TXT0822,Sasaran Penerima
+TXT0823,Lainnya
+TXT0824,Politik
+TXT0825,Tata Kelola
+TXT0826,Kualitas Pangan
+TXT0827,Sasaran Penerima
+TXT0828,Anggaran
+TXT0829,Sasaran Penerima
+TXT0830,Anggaran
+TXT0831,Politik
+TXT0832,Kualitas Pangan
+TXT0833,Tata Kelola
+TXT0834,Anggaran
+TXT0835,Lainnya
+TXT0836,Anggaran
+TXT0837,Anggaran
+TXT0838,Kualitas Pangan
+TXT0839,Sasaran Penerima
+TXT0840,Ekonomi
+TXT0841,Lainnya
+TXT0842,Distribusi
+TXT0843,Lainnya
+TXT0844,Kualitas Pangan
+TXT0845,Lainnya
+TXT0846,Ekonomi
+TXT0847,Tata Kelola
+TXT0848,Ekonomi
+TXT0849,Anggaran
+TXT0850,Anggaran
+TXT0851,Lainnya
+TXT0852,Distribusi
+TXT0853,Anggaran
+TXT0854,Distribusi
+TXT0855,Politik
+TXT0856,Sasaran Penerima
+TXT0857,Tata Kelola
+TXT0858,Ekonomi
+TXT0859,Sasaran Penerima
+TXT0860,Kualitas Pangan
+TXT0861,Politik
+TXT0862,Sasaran Penerima
+TXT0863,Distribusi
+TXT0864,Lainnya
+TXT0865,Kualitas Pangan
+TXT0866,Kualitas Pangan
+TXT0867,Lainnya
+TXT0868,Distribusi
+TXT0869,Distribusi
+TXT0870,Sasaran Penerima
+TXT0871,Anggaran
+TXT0872,Sasaran Penerima
+TXT0873,Tata Kelola
+TXT0874,Lainnya
+TXT0875,Tata Kelola
+TXT0876,Kualitas Pangan
+TXT0877,Ekonomi
+TXT0878,Distribusi
+TXT0879,Anggaran
+TXT0880,Tata Kelola
+TXT0881,Sasaran Penerima
+TXT0882,Anggaran
+TXT0883,Sasaran Penerima
+TXT0884,Anggaran
+TXT0885,Kualitas Pangan
+TXT0886,Anggaran
+TXT0887,Kualitas Pangan
+TXT0888,Sasaran Penerima
+TXT0889,Anggaran
+TXT0890,Politik
+TXT0891,Sasaran Penerima
+TXT0892,Politik
+TXT0893,Kualitas Pangan
+TXT0894,Tata Kelola
+TXT0895,Lainnya
+TXT0896,Distribusi
+TXT0897,Politik
+TXT0898,Kualitas Pangan
+TXT0899,Distribusi
+TXT0900,Tata Kelola
+TXT0901,Kualitas Pangan
+TXT0902,Distribusi
+TXT0903,Distribusi
+TXT0904,Distribusi
+TXT0905,Kualitas Pangan
+TXT0906,Kualitas Pangan
+TXT0907,Politik
+TXT0908,Distribusi
+TXT0909,Kualitas Pangan
+TXT0910,Sasaran Penerima
+TXT0911,Politik
+TXT0912,Anggaran
+TXT0913,Kualitas Pangan
+TXT0914,Kualitas Pangan
+TXT0915,Sasaran Penerima
+TXT0916,Sasaran Penerima
+TXT0917,Kualitas Pangan
+TXT0918,Lainnya
+TXT0919,Tata Kelola
+TXT0920,Lainnya
+TXT0921,Sasaran Penerima
+TXT0922,Politik
+TXT0923,Politik
+TXT0924,Politik
+TXT0925,Politik
+TXT0926,Politik
+TXT0927,Sasaran Penerima
+TXT0928,Kualitas Pangan
+TXT0929,Lainnya
+TXT0930,Anggaran
+TXT0931,Anggaran
+TXT0932,Tata Kelola
+TXT0933,Distribusi
+TXT0934,Kualitas Pangan
+TXT0935,Distribusi
+TXT0936,Tata Kelola
+TXT0937,Politik
+TXT0938,Politik
+TXT0939,Distribusi
+TXT0940,Sasaran Penerima
+TXT0941,Tata Kelola
+TXT0942,Tata Kelola
+TXT0943,Politik
+TXT0944,Kualitas Pangan
+TXT0945,Distribusi
+TXT0946,Anggaran
+TXT0947,Kualitas Pangan
+TXT0948,Anggaran
+TXT0949,Politik
+TXT0950,Distribusi
+TXT0951,Distribusi
+TXT0952,Distribusi
+TXT0953,Sasaran Penerima
+TXT0954,Politik
+TXT0955,Anggaran
+TXT0956,Kualitas Pangan
+TXT0957,Kualitas Pangan
+TXT0958,Anggaran
+TXT0959,Anggaran
+TXT0960,Ekonomi
+TXT0961,Ekonomi
+TXT0962,Kualitas Pangan
+TXT0963,Anggaran
+TXT0964,Kualitas Pangan
+TXT0965,Kualitas Pangan
+TXT0966,Anggaran
+TXT0967,Distribusi
+TXT0968,Kualitas Pangan
+TXT0969,Lainnya
+TXT0970,Tata Kelola
+TXT0971,Sasaran Penerima
+TXT0972,Sasaran Penerima
+TXT0973,Distribusi
+TXT0974,Politik
+TXT0975,Lainnya
+TXT0976,Anggaran
+TXT0977,Sasaran Penerima
+TXT0978,Anggaran
+TXT0979,Distribusi
+TXT0980,Politik
+TXT0981,Kualitas Pangan
+TXT0982,Distribusi
+TXT0983,Sasaran Penerima
+TXT0984,Kualitas Pangan
+TXT0985,Distribusi
+TXT0986,Sasaran Penerima
+TXT0987,Lainnya
+TXT0988,Anggaran
+TXT0989,Sasaran Penerima
+TXT0990,Tata Kelola
+TXT0991,Anggaran
+TXT0992,Kualitas Pangan
+TXT0993,Anggaran
+TXT0994,Lainnya
+TXT0995,Distribusi
+TXT0996,Politik
+TXT0997,Distribusi
+TXT0998,Ekonomi
+TXT0999,Anggaran
+TXT1000,Anggaran
+TXT1001,Anggaran
+TXT1002,Anggaran
+TXT1003,Politik
+TXT1004,Lainnya
+TXT1005,Tata Kelola
+TXT1006,Kualitas Pangan
+TXT1007,Distribusi
+TXT1008,Anggaran
+TXT1009,Kualitas Pangan
+TXT1010,Tata Kelola
+TXT1011,Anggaran
+TXT1012,Politik
+TXT1013,Distribusi
+TXT1014,Anggaran
+TXT1015,Anggaran
+TXT1016,Kualitas Pangan
+TXT1017,Lainnya
+TXT1018,Sasaran Penerima
+TXT1019,Lainnya
+TXT1020,Tata Kelola
+TXT1021,Politik
+TXT1022,Distribusi
+TXT1023,Ekonomi
+TXT1024,Sasaran Penerima
+TXT1025,Distribusi
+TXT1026,Kualitas Pangan
+TXT1027,Politik
+TXT1028,Distribusi
+TXT1029,Tata Kelola
+TXT1030,Tata Kelola
+TXT1031,Kualitas Pangan
+TXT1032,Sasaran Penerima
+TXT1033,Politik
+TXT1034,Kualitas Pangan
+TXT1035,Kualitas Pangan
+TXT1036,Kualitas Pangan
+TXT1037,Kualitas Pangan
+TXT1038,Politik
+TXT1039,Kualitas Pangan
+TXT1040,Lainnya
+TXT1041,Lainnya
+TXT1042,Lainnya
+TXT1043,Distribusi
+TXT1044,Distribusi
+TXT1045,Lainnya
+TXT1046,Lainnya
+TXT1047,Lainnya
+TXT1048,Distribusi
+TXT1049,Tata Kelola
+TXT1050,Kualitas Pangan
+TXT1051,Lainnya
+TXT1052,Lainnya
+TXT1053,Tata Kelola
+TXT1054,Kualitas Pangan
+TXT1055,Kualitas Pangan
+TXT1056,Tata Kelola
+TXT1057,Distribusi
+TXT1058,Anggaran
+TXT1059,Kualitas Pangan
+TXT1060,Anggaran
+TXT1061,Lainnya
+TXT1062,Tata Kelola
+TXT1063,Kualitas Pangan
+TXT1064,Anggaran
+TXT1065,Tata Kelola
+TXT1066,Distribusi
+TXT1067,Tata Kelola
+TXT1068,Kualitas Pangan
+TXT1069,Sasaran Penerima
+TXT1070,Distribusi
+TXT1071,Kualitas Pangan
+TXT1072,Sasaran Penerima
+TXT1073,Lainnya
+TXT1074,Sasaran Penerima
+TXT1075,Kualitas Pangan
+TXT1076,Tata Kelola
+TXT1077,Politik
+TXT1078,Sasaran Penerima
+TXT1079,Politik
+TXT1080,Ekonomi
+TXT1081,Lainnya
+TXT1082,Kualitas Pangan
+TXT1083,Distribusi
+TXT1084,Distribusi
+TXT1085,Tata Kelola
+TXT1086,Tata Kelola
+TXT1087,Sasaran Penerima
+TXT1088,Kualitas Pangan
+TXT1089,Anggaran
+TXT1090,Anggaran
+TXT1091,Tata Kelola
+TXT1092,Politik
+TXT1093,Anggaran
+TXT1094,Kualitas Pangan
+TXT1095,Tata Kelola
+TXT1096,Tata Kelola
+TXT1097,Anggaran
+TXT1098,Kualitas Pangan
+TXT1099,Anggaran
+TXT1100,Ekonomi
+TXT1101,Anggaran
+TXT1102,Politik
+TXT1103,Tata Kelola
+TXT1104,Kualitas Pangan
+TXT1105,Kualitas Pangan
+TXT1106,Tata Kelola
+TXT1107,Lainnya
+TXT1108,Distribusi
+TXT1109,Kualitas Pangan
+TXT1110,Politik
+TXT1111,Distribusi
+TXT1112,Tata Kelola
+TXT1113,Kualitas Pangan
+TXT1114,Kualitas Pangan
+TXT1115,Anggaran
+TXT1116,Distribusi
+TXT1117,Distribusi
+TXT1118,Kualitas Pangan
+TXT1119,Ekonomi
+TXT1120,Tata Kelola
+TXT1121,Politik
+TXT1122,Lainnya
+TXT1123,Anggaran
+TXT1124,Anggaran
+TXT1125,Anggaran
+TXT1126,Distribusi
+TXT1127,Sasaran Penerima
+TXT1128,Ekonomi
+TXT1129,Kualitas Pangan
+TXT1130,Tata Kelola
+TXT1131,Anggaran
+TXT1132,Anggaran
+TXT1133,Lainnya
+TXT1134,Lainnya
+TXT1135,Kualitas Pangan
+TXT1136,Politik
+TXT1137,Politik
+TXT1138,Distribusi
+TXT1139,Sasaran Penerima
+TXT1140,Politik
+TXT1141,Lainnya
+TXT1142,Kualitas Pangan
+TXT1143,Politik
+TXT1144,Kualitas Pangan
+TXT1145,Kualitas Pangan
+TXT1146,Politik
+TXT1147,Lainnya
+TXT1148,Kualitas Pangan
+TXT1149,Sasaran Penerima
+TXT1150,Tata Kelola
+TXT1151,Distribusi
+TXT1152,Politik
+TXT1153,Politik
+TXT1154,Tata Kelola
+TXT1155,Tata Kelola
+TXT1156,Kualitas Pangan
+TXT1157,Tata Kelola
+TXT1158,Ekonomi
+TXT1159,Anggaran
+TXT1160,Anggaran
+TXT1161,Politik
+TXT1162,Anggaran
+TXT1163,Anggaran
+TXT1164,Distribusi
+TXT1165,Anggaran
+TXT1166,Lainnya
+TXT1167,Anggaran
+TXT1168,Anggaran
+TXT1169,Sasaran Penerima
+TXT1170,Kualitas Pangan
+TXT1171,Distribusi
+TXT1172,Kualitas Pangan
+TXT1173,Distribusi
+TXT1174,Tata Kelola
+TXT1175,Anggaran
+TXT1176,Tata Kelola
+TXT1177,Distribusi
+TXT1178,Distribusi
+TXT1179,Anggaran
+TXT1180,Politik
+TXT1181,Lainnya
+TXT1182,Kualitas Pangan
+TXT1183,Lainnya
+TXT1184,Lainnya
+TXT1185,Politik
+TXT1186,Sasaran Penerima
+TXT1187,Anggaran
+TXT1188,Kualitas Pangan
+TXT1189,Kualitas Pangan
+TXT1190,Distribusi
+TXT1191,Lainnya
+TXT1192,Politik
+TXT1193,Distribusi
+TXT1194,Kualitas Pangan
+TXT1195,Anggaran
+TXT1196,Kualitas Pangan
+TXT1197,Lainnya
+TXT1198,Politik
+TXT1199,Anggaran
+TXT1200,Distribusi
+TXT1201,Distribusi
+TXT1202,Distribusi
+TXT1203,Kualitas Pangan
+TXT1204,Politik
+TXT1205,Kualitas Pangan
+TXT1206,Tata Kelola
+TXT1207,Kualitas Pangan
+TXT1208,Tata Kelola
+TXT1209,Politik
+TXT1210,Sasaran Penerima
+TXT1211,Sasaran Penerima
+TXT1212,Sasaran Penerima
+TXT1213,Kualitas Pangan
+TXT1214,Politik
+TXT1215,Lainnya
+TXT1216,Anggaran
+TXT1217,Politik
+TXT1218,Sasaran Penerima
+TXT1219,Tata Kelola
+TXT1220,Kualitas Pangan
+TXT1221,Kualitas Pangan
+TXT1222,Lainnya
+TXT1223,Sasaran Penerima
+TXT1224,Anggaran
+TXT1225,Sasaran Penerima
+TXT1226,Kualitas Pangan
+TXT1227,Kualitas Pangan
+TXT1228,Politik
+TXT1229,Tata Kelola
+TXT1230,Anggaran
+TXT1231,Politik
+TXT1232,Tata Kelola
+TXT1233,Tata Kelola
+TXT1234,Kualitas Pangan
+TXT1235,Sasaran Penerima
+TXT1236,Ekonomi
+TXT1237,Tata Kelola
+TXT1238,Sasaran Penerima
+TXT1239,Kualitas Pangan
+TXT1240,Anggaran
+TXT1241,Ekonomi
+TXT1242,Politik
+TXT1243,Politik
+TXT1244,Politik
+TXT1245,Ekonomi
+TXT1246,Sasaran Penerima
+TXT1247,Distribusi
+TXT1248,Lainnya
+TXT1249,Anggaran
+TXT1250,Distribusi
+TXT1251,Lainnya
+TXT1252,Kualitas Pangan
+TXT1253,Kualitas Pangan
+TXT1254,Distribusi
+TXT1255,Kualitas Pangan
+TXT1256,Sasaran Penerima
+TXT1257,Anggaran
+TXT1258,Kualitas Pangan
+TXT1259,Politik
+TXT1260,Distribusi
+TXT1261,Kualitas Pangan
+TXT1262,Tata Kelola
+TXT1263,Lainnya
+TXT1264,Anggaran
+TXT1265,Kualitas Pangan
+TXT1266,Politik
+TXT1267,Politik
+TXT1268,Kualitas Pangan
+TXT1269,Sasaran Penerima
+TXT1270,Politik
+TXT1271,Politik
+TXT1272,Kualitas Pangan
+TXT1273,Kualitas Pangan
+TXT1274,Anggaran
+TXT1275,Lainnya
+TXT1276,Anggaran
+TXT1277,Lainnya
+TXT1278,Tata Kelola
+TXT1279,Lainnya
+TXT1280,Politik
+TXT1281,Lainnya
+TXT1282,Anggaran
+TXT1283,Lainnya
+TXT1284,Tata Kelola
+TXT1285,Anggaran
+TXT1286,Tata Kelola
+TXT1287,Kualitas Pangan
+TXT1288,Politik
+TXT1289,Tata Kelola
+TXT1290,Anggaran
+TXT1291,Lainnya
+TXT1292,Kualitas Pangan
+TXT1293,Tata Kelola
+TXT1294,Anggaran
+TXT1295,Distribusi
+TXT1296,Kualitas Pangan
+TXT1297,Ekonomi
+TXT1298,Kualitas Pangan
+TXT1299,Anggaran
+TXT1300,Anggaran
+TXT1301,Kualitas Pangan
+TXT1302,Distribusi
+TXT1303,Politik
+TXT1304,Distribusi
+TXT1305,Kualitas Pangan
+TXT1306,Tata Kelola
+TXT1307,Sasaran Penerima
+TXT1308,Kualitas Pangan
+TXT1309,Anggaran
+TXT1310,Anggaran
+TXT1311,Kualitas Pangan
+TXT1312,Distribusi
+TXT1313,Kualitas Pangan
+TXT1314,Anggaran
+TXT1315,Sasaran Penerima
+TXT1316,Distribusi
+TXT1317,Kualitas Pangan
+TXT1318,Kualitas Pangan
+TXT1319,Kualitas Pangan
+TXT1320,Kualitas Pangan
+TXT1321,Distribusi
+TXT1322,Kualitas Pangan
+TXT1323,Sasaran Penerima
+TXT1324,Anggaran
+TXT1325,Anggaran
+TXT1326,Politik
+TXT1327,Ekonomi
+TXT1328,Politik
+TXT1329,Kualitas Pangan
+TXT1330,Anggaran
+TXT1331,Lainnya
+TXT1332,Kualitas Pangan
+TXT1333,Distribusi
+TXT1334,Distribusi
+TXT1335,Tata Kelola
+TXT1336,Kualitas Pangan
+TXT1337,Lainnya
+TXT1338,Kualitas Pangan
+TXT1339,Politik
+TXT1340,Lainnya
+TXT1341,Politik
+TXT1342,Kualitas Pangan
+TXT1343,Kualitas Pangan
+TXT1344,Distribusi
+TXT1345,Anggaran
+TXT1346,Kualitas Pangan
+TXT1347,Lainnya
+TXT1348,Kualitas Pangan
+TXT1349,Anggaran
+TXT1350,Politik
+TXT1351,Tata Kelola
+TXT1352,Sasaran Penerima
+TXT1353,Kualitas Pangan
+TXT1354,Lainnya
+TXT1355,Distribusi
+TXT1356,Sasaran Penerima
+TXT1357,Kualitas Pangan
+TXT1358,Lainnya
+TXT1359,Politik
+TXT1360,Sasaran Penerima
+TXT1361,Sasaran Penerima
+TXT1362,Anggaran
+TXT1363,Sasaran Penerima
+TXT1364,Tata Kelola
+TXT1365,Anggaran
+TXT1366,Kualitas Pangan
+TXT1367,Anggaran
+TXT1368,Kualitas Pangan
+TXT1369,Kualitas Pangan
+TXT1370,Distribusi
+TXT1371,Politik
+TXT1372,Lainnya
+TXT1373,Politik
+TXT1374,Sasaran Penerima
+TXT1375,Kualitas Pangan
+TXT1376,Ekonomi
+TXT1377,Sasaran Penerima
+TXT1378,Kualitas Pangan
+TXT1379,Kualitas Pangan
+TXT1380,Politik
+TXT1381,Lainnya
+TXT1382,Sasaran Penerima
+TXT1383,Politik
+TXT1384,Sasaran Penerima
+TXT1385,Lainnya
+TXT1386,Distribusi
+TXT1387,Sasaran Penerima
+TXT1388,Sasaran Penerima
+TXT1389,Distribusi
+TXT1390,Tata Kelola
+TXT1391,Politik
+TXT1392,Sasaran Penerima
+TXT1393,Sasaran Penerima
+TXT1394,Sasaran Penerima
+TXT1395,Lainnya
+TXT1396,Ekonomi
+TXT1397,Kualitas Pangan
+TXT1398,Distribusi
+TXT1399,Lainnya
+TXT1400,Lainnya
+TXT1401,Sasaran Penerima
+TXT1402,Sasaran Penerima
+TXT1403,Sasaran Penerima
+TXT1404,Distribusi
+TXT1405,Lainnya
+TXT1406,Sasaran Penerima
+TXT1407,Kualitas Pangan
+TXT1408,Lainnya
+TXT1409,Distribusi
+TXT1410,Tata Kelola
+TXT1411,Lainnya
+TXT1412,Anggaran
+TXT1413,Lainnya
+TXT1414,Kualitas Pangan
+TXT1415,Kualitas Pangan
+TXT1416,Distribusi
+TXT1417,Kualitas Pangan
+TXT1418,Tata Kelola
+TXT1419,Sasaran Penerima
+TXT1420,Politik
+TXT1421,Anggaran
+TXT1422,Anggaran
+TXT1423,Distribusi
+TXT1424,Kualitas Pangan
+TXT1425,Kualitas Pangan
+TXT1426,Tata Kelola
+TXT1427,Politik
+TXT1428,Anggaran
+TXT1429,Sasaran Penerima
+TXT1430,Ekonomi
+TXT1431,Kualitas Pangan
+TXT1432,Distribusi
+TXT1433,Kualitas Pangan
+TXT1434,Lainnya
+TXT1435,Tata Kelola
+TXT1436,Kualitas Pangan
+TXT1437,Distribusi
+TXT1438,Anggaran
+TXT1439,Politik
+TXT1440,Kualitas Pangan
+TXT1441,Kualitas Pangan
+TXT1442,Anggaran
+TXT1443,Ekonomi
+TXT1444,Distribusi
+TXT1445,Tata Kelola
+TXT1446,Kualitas Pangan
+TXT1447,Anggaran
+TXT1448,Distribusi
+TXT1449,Politik
+TXT1450,Kualitas Pangan
+TXT1451,Lainnya
+TXT1452,Sasaran Penerima
+TXT1453,Politik
+TXT1454,Kualitas Pangan
+TXT1455,Tata Kelola
+TXT1456,Anggaran
+TXT1457,Distribusi
+TXT1458,Ekonomi
+TXT1459,Distribusi
+TXT1460,Kualitas Pangan
+TXT1461,Politik
+TXT1462,Distribusi
+TXT1463,Politik
+TXT1464,Tata Kelola
+TXT1465,Tata Kelola
+TXT1466,Distribusi
+TXT1467,Sasaran Penerima
+TXT1468,Kualitas Pangan
+TXT1469,Tata Kelola
+TXT1470,Tata Kelola
+TXT1471,Tata Kelola
+TXT1472,Sasaran Penerima
+TXT1473,Politik
+TXT1474,Lainnya
+TXT1475,Anggaran
+TXT1476,Anggaran
+TXT1477,Sasaran Penerima
+TXT1478,Lainnya
+TXT1479,Anggaran
+TXT1480,Kualitas Pangan
+TXT1481,Distribusi
+TXT1482,Distribusi
+TXT1483,Tata Kelola
+TXT1484,Lainnya
+TXT1485,Anggaran
+TXT1486,Anggaran
+TXT1487,Lainnya
+TXT1488,Kualitas Pangan
+TXT1489,Kualitas Pangan
+TXT1490,Politik
+TXT1491,Distribusi
+TXT1492,Politik
+TXT1493,Lainnya
+TXT1494,Kualitas Pangan
+TXT1495,Sasaran Penerima
+TXT1496,Tata Kelola
+TXT1497,Kualitas Pangan
+TXT1498,Distribusi
+TXT1499,Kualitas Pangan
+TXT1500,Anggaran
