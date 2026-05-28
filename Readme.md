@@ -152,3 +152,10 @@ adjusted = [0.15/0.2, 0.20/1.0, 0.65/1.0] = [0.75, 0.20, 0.65]
 
 16. Untuk OOF mungkin bisa di skip karena model yang kami pilih untuk dikumpulkan di lomba adalah XLM roBERTa
 
+| Model | Metode | Balanced Accuracy |
+|---|---|---|
+| Complement Naive Bayes | TF-IDF + Naive Bayes | 58% |
+| BERT | Fine-tuning `bert-base` | 64% |
+| IndoBERTweet | Fine-tuning IndoBERTweet | 69% |
+| **XLM-RoBERTa** (ours) | Fine-tuning + Soft Label + NoisyAwareTrainer + Threshold Tuning | **79-80%*** |
+
